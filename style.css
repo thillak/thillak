@@ -24,13 +24,13 @@
 
  	.myName {
  	 
- 	 
+ 	 font-family: 'Raleway', sans-serif;
  	 
  	}
  
  	.myBio {
  	 
- 		
+ 		font-family: 'Raleway', sans-serif;
  	 
  	}
 	 
@@ -64,7 +64,9 @@
 
 
 	  
-
+	.intro h5 {
+		font-family: 'Raleway', sans-serif;
+	}
 	 .media {
 	 	text-align:left;
 	 }
