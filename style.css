@@ -1,0 +1,71 @@
+* {
+	margin:0;
+	padding:0;
+	font-family: 'Raleway', sans-serif;
+}
+
+	.intro {
+
+		text-align:center;
+		background:blue;
+		height:100vh;
+		display:flex;
+		flex-direction:column;
+		align-items:center;
+		justify-content:center;
+		background: #FC354C; /* fallback for old browsers */
+		background: -webkit-linear-gradient(bottom right, #FC354C , #0ABFBC); /* Chrome 10-25, Safari 5.1-6 */
+		background: linear-gradient(bottom right, #FC354C , #0ABFBC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+		background: -o-linear-gradient(bottom right, #FC354C , #0ABFBC); /* For Opera 11.1 to 12.0 */
+   		 background: -moz-linear-gradient(bottom right, #FC354C , #0ABFBC); /* For Firefox 3.6 to 15 */
+	}		
+ 		
+
+ 	.myName {
+ 		font-size:5em;
+ 		color:white;
+ 		font-weight:100;
+ 	}
+ 
+ 	.myBio {
+ 		font-size:1.5em;
+ 		color:white;
+ 		font-weight:100;
+ 	}
+	 
+	.myGithub {
+
+				   	 background-color: transparent;
+				    box-shadow: 0px 0px 0px 1px  #FFF;
+				    color: #FFF !important;
+				    display: inline-block;
+				    font-size: .8em;
+				    font-weight: 400;
+				    height: 2.75em;
+				    letter-spacing: 0.130em;
+				    line-height: 2.75em;
+				    padding: 0px 2em;
+				    text-align: center;
+				    text-decoration: none;
+				    text-indent: 0.130em;
+				    white-space: nowrap;
+				 	border:#FFF;
+			 		animation: fadein 10s;
+	}
+
+		.myGithub:hover  {
+
+				  text-decoration:none;
+				 background:rgba(0,0,0,0.1);
+				     
+	}
+
+
+
+	 .intro h5 {
+	 	color:white;
+	 }
+
+	 .media {
+	 	text-align:left;
+	 }
