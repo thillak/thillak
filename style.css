@@ -1,8 +1,7 @@
 * {
 	margin:0;
 	padding:0;
-	color:white;
- 	font-family: 'Roboto', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 
 	.intro {
@@ -23,14 +22,15 @@
  		
 
  	.myName {
- 	 
- 
- 	 
+ 		font-size:5em;
+ 		color:white;
+ 		font-weight:100;
  	}
  
  	.myBio {
-  
- 	 
+ 		font-size:1.5em;
+ 		color:white;
+ 		font-weight:100;
  	}
 	 
 	.myGithub {
@@ -62,10 +62,10 @@
 
 
 
-	  
-	.intro h5 {
- 
-	}
+	 .intro h5 {
+	 	color:white;
+	 }
+
 	 .media {
 	 	text-align:left;
 	 }
